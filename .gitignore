@@ -1,0 +1,6 @@
+# venv
+/.venv
+
+#pyinstaller
+/build
+/dist
